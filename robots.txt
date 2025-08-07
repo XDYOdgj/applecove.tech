@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://applecove.tech/sitemap.xml
